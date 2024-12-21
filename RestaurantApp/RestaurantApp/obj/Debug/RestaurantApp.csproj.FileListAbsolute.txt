@@ -1,0 +1,60 @@
+H:\УП\Работа\RestaurantApp\RestaurantApp\bin\Debug\RestaurantApp.exe.config
+H:\УП\Работа\RestaurantApp\RestaurantApp\bin\Debug\RestaurantApp.exe
+H:\УП\Работа\RestaurantApp\RestaurantApp\bin\Debug\RestaurantApp.pdb
+H:\УП\Работа\RestaurantApp\RestaurantApp\obj\Debug\RestaurantApp.csproj.AssemblyReference.cache
+H:\УП\Работа\RestaurantApp\RestaurantApp\obj\Debug\RestaurantApp.LoginForm.resources
+H:\УП\Работа\RestaurantApp\RestaurantApp\obj\Debug\RestaurantApp.MainPanel.resources
+H:\УП\Работа\RestaurantApp\RestaurantApp\obj\Debug\RestaurantApp.ManageMenuForm.resources
+H:\УП\Работа\RestaurantApp\RestaurantApp\obj\Debug\RestaurantApp.ManageOrdersForm.resources
+H:\УП\Работа\RestaurantApp\RestaurantApp\obj\Debug\RestaurantApp.Properties.Resources.resources
+H:\УП\Работа\RestaurantApp\RestaurantApp\obj\Debug\RestaurantApp.csproj.GenerateResource.cache
+H:\УП\Работа\RestaurantApp\RestaurantApp\obj\Debug\RestaurantApp.csproj.CoreCompileInputs.cache
+H:\УП\Работа\RestaurantApp\RestaurantApp\obj\Debug\RestaurantApp.exe
+H:\УП\Работа\RestaurantApp\RestaurantApp\obj\Debug\RestaurantApp.pdb
+H:\УП\Работа\RestaurantApp\RestaurantApp\obj\Debug\RestaurantApp.OrderFilterForm2.resources
+H:\УП\Работа\RestaurantApp\RestaurantApp\obj\Debug\RestaurantApp.ViewMenuForm.resources
+C:\Users\lepto\OneDrive\Desktop\УП ДЕКАБРЬ\Работа\RestaurantApp\RestaurantApp\obj\Debug\RestaurantApp.csproj.AssemblyReference.cache
+C:\Users\lepto\OneDrive\Desktop\УП ДЕКАБРЬ\Работа\RestaurantApp\RestaurantApp\obj\Debug\RestaurantApp.exe
+C:\Users\lepto\OneDrive\Desktop\УП ДЕКАБРЬ\Работа\RestaurantApp\RestaurantApp\obj\Debug\RestaurantApp.pdb
+C:\Users\lepto\OneDrive\Desktop\УП ДЕКАБРЬ\Работа\RestaurantApp\RestaurantApp\bin\Debug\RestaurantApp.exe.config
+C:\Users\lepto\OneDrive\Desktop\УП ДЕКАБРЬ\Работа\RestaurantApp\RestaurantApp\bin\Debug\RestaurantApp.exe
+C:\Users\lepto\OneDrive\Desktop\УП ДЕКАБРЬ\Работа\RestaurantApp\RestaurantApp\bin\Debug\RestaurantApp.pdb
+C:\Users\lepto\OneDrive\Desktop\УП ДЕКАБРЬ\Работа\RestaurantApp\RestaurantApp\obj\Debug\RestaurantApp.LoginForm.resources
+C:\Users\lepto\OneDrive\Desktop\УП ДЕКАБРЬ\Работа\RestaurantApp\RestaurantApp\obj\Debug\RestaurantApp.MainPanel.resources
+C:\Users\lepto\OneDrive\Desktop\УП ДЕКАБРЬ\Работа\RestaurantApp\RestaurantApp\obj\Debug\RestaurantApp.ManageMenuForm.resources
+C:\Users\lepto\OneDrive\Desktop\УП ДЕКАБРЬ\Работа\RestaurantApp\RestaurantApp\obj\Debug\RestaurantApp.ManageOrdersForm.resources
+C:\Users\lepto\OneDrive\Desktop\УП ДЕКАБРЬ\Работа\RestaurantApp\RestaurantApp\obj\Debug\RestaurantApp.OrderFilterForm2.resources
+C:\Users\lepto\OneDrive\Desktop\УП ДЕКАБРЬ\Работа\RestaurantApp\RestaurantApp\obj\Debug\RestaurantApp.Properties.Resources.resources
+C:\Users\lepto\OneDrive\Desktop\УП ДЕКАБРЬ\Работа\RestaurantApp\RestaurantApp\obj\Debug\RestaurantApp.ViewMenuForm.resources
+C:\Users\lepto\OneDrive\Desktop\УП ДЕКАБРЬ\Работа\RestaurantApp\RestaurantApp\obj\Debug\RestaurantApp.csproj.GenerateResource.cache
+C:\Users\lepto\OneDrive\Desktop\УП ДЕКАБРЬ\Работа\RestaurantApp\RestaurantApp\obj\Debug\RestaurantApp.csproj.CoreCompileInputs.cache
+H:\УП\Задание\УП ДЕКАБРЬ\УП ДЕКАБРЬ\Работа\RestaurantApp\RestaurantApp\bin\Debug\RestaurantApp.exe.config
+H:\УП\Задание\УП ДЕКАБРЬ\УП ДЕКАБРЬ\Работа\RestaurantApp\RestaurantApp\bin\Debug\RestaurantApp.exe
+H:\УП\Задание\УП ДЕКАБРЬ\УП ДЕКАБРЬ\Работа\RestaurantApp\RestaurantApp\bin\Debug\RestaurantApp.pdb
+H:\УП\Задание\УП ДЕКАБРЬ\УП ДЕКАБРЬ\Работа\RestaurantApp\RestaurantApp\obj\Debug\RestaurantApp.csproj.AssemblyReference.cache
+H:\УП\Задание\УП ДЕКАБРЬ\УП ДЕКАБРЬ\Работа\RestaurantApp\RestaurantApp\obj\Debug\RestaurantApp.LoginForm.resources
+H:\УП\Задание\УП ДЕКАБРЬ\УП ДЕКАБРЬ\Работа\RestaurantApp\RestaurantApp\obj\Debug\RestaurantApp.MainPanel.resources
+H:\УП\Задание\УП ДЕКАБРЬ\УП ДЕКАБРЬ\Работа\RestaurantApp\RestaurantApp\obj\Debug\RestaurantApp.ManageMenuForm.resources
+H:\УП\Задание\УП ДЕКАБРЬ\УП ДЕКАБРЬ\Работа\RestaurantApp\RestaurantApp\obj\Debug\RestaurantApp.ManageOrdersForm.resources
+H:\УП\Задание\УП ДЕКАБРЬ\УП ДЕКАБРЬ\Работа\RestaurantApp\RestaurantApp\obj\Debug\RestaurantApp.OrderFilterForm2.resources
+H:\УП\Задание\УП ДЕКАБРЬ\УП ДЕКАБРЬ\Работа\RestaurantApp\RestaurantApp\obj\Debug\RestaurantApp.Properties.Resources.resources
+H:\УП\Задание\УП ДЕКАБРЬ\УП ДЕКАБРЬ\Работа\RestaurantApp\RestaurantApp\obj\Debug\RestaurantApp.ViewMenuForm.resources
+H:\УП\Задание\УП ДЕКАБРЬ\УП ДЕКАБРЬ\Работа\RestaurantApp\RestaurantApp\obj\Debug\RestaurantApp.csproj.GenerateResource.cache
+H:\УП\Задание\УП ДЕКАБРЬ\УП ДЕКАБРЬ\Работа\RestaurantApp\RestaurantApp\obj\Debug\RestaurantApp.csproj.CoreCompileInputs.cache
+H:\УП\Задание\УП ДЕКАБРЬ\УП ДЕКАБРЬ\Работа\RestaurantApp\RestaurantApp\obj\Debug\RestaurantApp.exe
+H:\УП\Задание\УП ДЕКАБРЬ\УП ДЕКАБРЬ\Работа\RestaurantApp\RestaurantApp\obj\Debug\RestaurantApp.pdb
+C:\Users\lepto\OneDrive\Desktop\сдача\УП ДЕКАБРЬ\УП ДЕКАБРЬ\Работа\RestaurantApp\RestaurantApp\bin\Debug\RestaurantApp.exe.config
+C:\Users\lepto\OneDrive\Desktop\сдача\УП ДЕКАБРЬ\УП ДЕКАБРЬ\Работа\RestaurantApp\RestaurantApp\bin\Debug\RestaurantApp.exe
+C:\Users\lepto\OneDrive\Desktop\сдача\УП ДЕКАБРЬ\УП ДЕКАБРЬ\Работа\RestaurantApp\RestaurantApp\bin\Debug\RestaurantApp.pdb
+C:\Users\lepto\OneDrive\Desktop\сдача\УП ДЕКАБРЬ\УП ДЕКАБРЬ\Работа\RestaurantApp\RestaurantApp\obj\Debug\RestaurantApp.csproj.AssemblyReference.cache
+C:\Users\lepto\OneDrive\Desktop\сдача\УП ДЕКАБРЬ\УП ДЕКАБРЬ\Работа\RestaurantApp\RestaurantApp\obj\Debug\RestaurantApp.LoginForm.resources
+C:\Users\lepto\OneDrive\Desktop\сдача\УП ДЕКАБРЬ\УП ДЕКАБРЬ\Работа\RestaurantApp\RestaurantApp\obj\Debug\RestaurantApp.MainPanel.resources
+C:\Users\lepto\OneDrive\Desktop\сдача\УП ДЕКАБРЬ\УП ДЕКАБРЬ\Работа\RestaurantApp\RestaurantApp\obj\Debug\RestaurantApp.ManageMenuForm.resources
+C:\Users\lepto\OneDrive\Desktop\сдача\УП ДЕКАБРЬ\УП ДЕКАБРЬ\Работа\RestaurantApp\RestaurantApp\obj\Debug\RestaurantApp.ManageOrdersForm.resources
+C:\Users\lepto\OneDrive\Desktop\сдача\УП ДЕКАБРЬ\УП ДЕКАБРЬ\Работа\RestaurantApp\RestaurantApp\obj\Debug\RestaurantApp.OrderFilterForm2.resources
+C:\Users\lepto\OneDrive\Desktop\сдача\УП ДЕКАБРЬ\УП ДЕКАБРЬ\Работа\RestaurantApp\RestaurantApp\obj\Debug\RestaurantApp.Properties.Resources.resources
+C:\Users\lepto\OneDrive\Desktop\сдача\УП ДЕКАБРЬ\УП ДЕКАБРЬ\Работа\RestaurantApp\RestaurantApp\obj\Debug\RestaurantApp.ViewMenuForm.resources
+C:\Users\lepto\OneDrive\Desktop\сдача\УП ДЕКАБРЬ\УП ДЕКАБРЬ\Работа\RestaurantApp\RestaurantApp\obj\Debug\RestaurantApp.csproj.GenerateResource.cache
+C:\Users\lepto\OneDrive\Desktop\сдача\УП ДЕКАБРЬ\УП ДЕКАБРЬ\Работа\RestaurantApp\RestaurantApp\obj\Debug\RestaurantApp.csproj.CoreCompileInputs.cache
+C:\Users\lepto\OneDrive\Desktop\сдача\УП ДЕКАБРЬ\УП ДЕКАБРЬ\Работа\RestaurantApp\RestaurantApp\obj\Debug\RestaurantApp.exe
+C:\Users\lepto\OneDrive\Desktop\сдача\УП ДЕКАБРЬ\УП ДЕКАБРЬ\Работа\RestaurantApp\RestaurantApp\obj\Debug\RestaurantApp.pdb
